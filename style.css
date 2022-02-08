@@ -1,6 +1,7 @@
 /* fichier de style de la maquette */
 body{
     background-image: url(img/bg.png);
+    font-family: Arial, Helvetica, sans-serif;
 }
 .encart{
     color:white;
@@ -8,15 +9,17 @@ body{
     width:1500px;
     height: 50px;
     text-align: right;
-    margin:0;
+    margin-top: -10px;
 }
+
 .insert{
-    color:white;
+    color:white !important;
     width:1000px;
     height: 50px;
     text-align: right;
     margin-left:  250px;
-    margin: top 0;
+    margin-top:  0;
+    padding-top: 30px !important;
 }
 .footer{
     text-align: left !important;
