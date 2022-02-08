@@ -1,0 +1,42 @@
+/* fichier de style de la maquette */
+body{
+    background-image: url(img/bg.png);
+}
+.encart{
+    color:white;
+    background-color:#013279;
+    width:1500px;
+    height: 50px;
+    text-align: right;
+    margin:0;
+}
+.insert{
+    color:white;
+    width:1000px;
+    height: 50px;
+    text-align: right;
+    margin-left:  250px;
+    margin: top 0;
+}
+.footer{
+    text-align: left !important;
+    
+}
+.zone{
+    color:black;
+    background-color: #dbdbdb;
+    width: 1000px;
+    height: 150px;
+    text-align: left;
+    margin-left:  250px;
+}
+
+.main{
+    height: 500px !important;
+    background-color:rgba(192, 192, 912, 0.3);
+    margin-top: 10px;
+}
+.shadow{
+    -webkit-box-shadow: 0px 5px 24px -7px rgba(0,0,0,0.74); 
+    box-shadow: 0px 5px 24px -7px rgba(0,0,0,0.74);
+}
